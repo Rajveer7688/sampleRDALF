@@ -1458,17 +1458,17 @@ section {
 }
 
 #speakers {
-    background: url(../img/speaker-bg.jpg)
+    background: url(../speaker-bg.jpg)
 }
 
 .speaker-box::before {
-    content: url(../img/speaker-frame-frame.png);
+    content: url(../speaker-frame-frame.png);
     position: absolute
 }
 
 .speaker-box {
-    -webkit-mask-image: url(../img/speaker-frame.png);
-    mask-image: url(../img/speaker-frame.png);
+    -webkit-mask-image: url(../speaker-frame.png);
+    mask-image: url(../speaker-frame.png);
     -webkit-mask-size: 220px;
     mask-size: 72%;
     -webkit-mask-repeat: no-repeat;
