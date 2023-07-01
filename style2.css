@@ -1517,7 +1517,7 @@ section {
 }
 
 #parallax {
-    background-image: url(../../jlf-images/bg-one.png);
+    background-image: url(../bg-one.png);
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -1527,7 +1527,7 @@ section {
 
 body {
     background: #0c1a50;
-    background-image: url(../img/body-banner.jpg);
+    background-image: url(../body-banner.jpg);
     background-repeat: no-repeat;
     background-size: contain
 }
@@ -1555,11 +1555,11 @@ body {
 }
 
 .carousel-control-prev-icon {
-    background-image: url(../img/left-arrow.svg)
+    background-image: url(../left-arrow.svg)
 }
 
 .carousel-control-next-icon {
-    background-image: url(../img/right-arrrow.svg)
+    background-image: url(../right-arrrow.svg)
 }
 
 .carousel-control-next-icon,
