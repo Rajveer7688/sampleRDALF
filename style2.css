@@ -1458,17 +1458,17 @@ section {
 }
 
 #speakers {
-    background: url(../speaker-bg.jpg)
+    background: url(speaker-bg.jpg)
 }
 
 .speaker-box::before {
-    content: url(../speaker-frame-frame.png);
+    content: url(speaker-frame-frame.png);
     position: absolute
 }
 
 .speaker-box {
-    -webkit-mask-image: url(../speaker-frame.png);
-    mask-image: url(../speaker-frame.png);
+    -webkit-mask-image: url(speaker-frame.png);
+    mask-image: url(speaker-frame.png);
     -webkit-mask-size: 220px;
     mask-size: 72%;
     -webkit-mask-repeat: no-repeat;
@@ -1517,7 +1517,7 @@ section {
 }
 
 #parallax {
-    background-image: url(../bg-one.png);
+    background-image: url(bg-one.png);
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -1527,7 +1527,7 @@ section {
 
 body {
     background: #0c1a50;
-    background-image: url(../body-banner.jpg);
+    background-image: url(body-banner.jpg);
     background-repeat: no-repeat;
     background-size: contain
 }
@@ -1555,11 +1555,11 @@ body {
 }
 
 .carousel-control-prev-icon {
-    background-image: url(../left-arrow.svg)
+    background-image: url(left-arrow.svg)
 }
 
 .carousel-control-next-icon {
-    background-image: url(../right-arrrow.svg)
+    background-image: url(right-arrrow.svg)
 }
 
 .carousel-control-next-icon,
